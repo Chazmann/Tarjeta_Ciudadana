@@ -1,2 +1,2 @@
-# CV_Ticmas_Chazarreta
-Trabajo final para certificación en FrontEnd Academy
+# Tarjeta_Ciudadana
+Frontend Aplicación Web
